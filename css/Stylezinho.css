@@ -1,0 +1,19 @@
+.navbar {
+    background-image: linear-gradient(to right, rgb(108, 21, 209), rgb(159, 61, 195), rgb(199, 33, 212));
+}
+
+Body {
+    background-image: linear-gradient(to bottom, violet, pink, purple);
+}
+
+#bulbasaur {
+    font-size: 30px;
+}
+
+h4 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}

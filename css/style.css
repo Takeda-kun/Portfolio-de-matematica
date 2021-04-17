@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to bottom, rgb(164, 255, 255), rgb(164, 255, 255), rgb(164, 255, 255), #39b9d8, blue);
+}
+
+#introducione {
+    font-size: 50px;
+}
+
+#bulbasaur {
+    font-size: 30px;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, rgb(108, 21, 209), rgb(159, 61, 195), rgb(199, 33, 212));
+}
